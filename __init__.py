@@ -1,4 +1,4 @@
-def myai051(board, color):
+def myai(board, color):
     """
     6x6オセロ盤で最も奥の石が取れる位置を返す
     color: 1=黒(自分), 2=白(対戦AI)
